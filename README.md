@@ -50,7 +50,7 @@ While linear models completely failed to identify the minority class (yielding l
 This project was developed as a comprehensive final study for the **FINA 455** curriculum at **Concordia University**. 
 
 * **My Role (Lead Technical Developer):** While collaborating closely with finance-focused team members on business logic, I acted as the sole developer responsible for building the data preprocessing pipelines, scripting the 10 core ML algorithms in Python, and generating performance visualization graphs.
-* **Productivity:** To optimize code delivery and maintain clean syntax pipelines, modern AI-assisted workflows (GitHub Copilot) were actively leveraged throughout development.
+
 
 ---
 
